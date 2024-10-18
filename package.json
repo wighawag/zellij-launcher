@@ -4,7 +4,7 @@
   "description": "launch zellij and handle EXITED sessions",
   "type": "module",
   "bin": {
-    "z": "./dist/index.js"
+    "zellij-launcher": "./dist/index.js"
   },
   "files": [
     "dist",
