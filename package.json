@@ -20,8 +20,5 @@
     "build": "tsc",
     "build:watch": "as-soon -w src pnpm build",
     "format:check": "prettier --check ."
-  },
-  "dependencies": {
-    "commander": "^12.1.0"
   }
 }
